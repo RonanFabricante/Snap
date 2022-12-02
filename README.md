@@ -342,4 +342,4 @@ Player 2: 9 of Clubs
 Player 1 shouts: Snap!
 Player 1 card size: 52
 Player 2 card size: 0
-Player1 wins
+Player1 wins 
